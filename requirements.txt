@@ -1,5 +1,6 @@
 allure-pytest==2.14.3
 allure-python-commons==2.14.3
+gunicorn==20.1.0
 annotated-types==0.7.0
 anyio==4.9.0
 Appium-Python-Client==5.1.1
